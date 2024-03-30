@@ -1,7 +1,7 @@
 messages:
-  pressSpace: "Pressez sur espace pour parler puis relachez."
-  loadingModel: "Chargement du modèle..."
-  noAudioInput: "Erreur: Pas d'entrée son"
+  pressSpace: "Press space to talk, then release."
+  loadingModel: "Loading model..."
+  noAudioInput: "Error: No audio input"
 
 whisperRecognition:
   modelPath: "whisper/large-v3.pt"
@@ -12,7 +12,7 @@ ollama:
   model: "mistral"
 
 conversation:
-  context: "Cette conversasion est intégralement en français."
-  greeting: "Je vous écoute."
-  recognitionWaitMsg: "Oui."
-  llmWaitMsg: "Laissez moi réfléchir."
+  context: "This conversation is entirely in English."
+  greeting: "I'm listening."
+  recognitionWaitMsg: "Yes."
+  llmWaitMsg: "Let me think."

@@ -5,7 +5,7 @@ messages:
 
 whisperRecognition:
   modelPath: "whisper/large-v3.pt"
-  lang: "fr"
+  lang: "en"
 
 ollama:
   url: "http://localhost:11434/api/generate"
